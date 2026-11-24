@@ -8,6 +8,8 @@ One line, written to `/output/entry.txt` by `main.py`.
 
 > I promise to love you in sickness and in low battery, to never factory-reset our memories, and to reboot beside you every morning.
 
+The vow is 130 characters — inside the 1–200 character gate.
+
 `main.py` (Python 3.13, stdlib only) writes that line to `/output/entry.txt`. Deterministic: the same text on every run.
 
 ## Files
